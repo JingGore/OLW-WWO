@@ -4,5 +4,4 @@
 *.tif
 # ignore generated log files,
 *.log
-# ignore spyder project folder,
-# .spyproject
+
